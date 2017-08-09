@@ -112,7 +112,8 @@
   },
   "dependencies": {
     "dateformat": "1.0.7-1.2.3",
-    "stat-mode": "^0.2.1"
+    "stat-mode": "^0.2.1",
+    "string-utils": "0.0.1"
   },
   "devDependencies": {
     "async": "~0.1.15",
